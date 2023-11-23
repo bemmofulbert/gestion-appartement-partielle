@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+	<appartements>
+		<appartement numLocation='1'>
+			<categorie>standard</categorie>
+			<nbPersonnes>5</nbPersonnes>
+			<adresseLocation>bp6903</adresseLocation>
+			<photo>pexels-maxime-francis-2246476.jpg</photo>
+			<typeAppartement>appartement 1 chambre</typeAppartement>
+			<equipement>chaise,table</equipement>
+			<codeTarif>1</codeTarif>
+			<numProprietaire></numProprietaire>
+		</appartement>
+		<appartement numLocation='3'>
+			<categorie>standard</categorie>
+			<nbPersonnes>33</nbPersonnes>
+			<adresseLocation>Cameroun, Yaounde</adresseLocation>
+			<photo>ia_pessimiste.png</photo>
+			<typeAppartement>appartement 2 chambres</typeAppartement>
+			<equipement>Robinet, Douche</equipement>
+			<codeTarif>3</codeTarif>
+			<numProprietaire>4</numProprietaire>
+		</appartement>
+
+		<appartement numLocation='4500'>
+			<categorie>prestige</categorie>
+			<nbPersonnes>12</nbPersonnes>
+			<adresseLocation>Cameroun, Yaounde, Oyomabang</adresseLocation>
+			<photo>oo1.jpg</photo>
+			<typeAppartement>duplex</typeAppartement>
+			<equipement>Douche, Sofa, Lit</equipement>
+			<codeTarif>4500</codeTarif>
+			<numProprietaire>4</numProprietaire>
+		</appartement>
+	</appartements>

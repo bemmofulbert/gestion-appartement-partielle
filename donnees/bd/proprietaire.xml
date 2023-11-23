@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+	<proprietaires>
+
+		<proprietaire numProprietaire='4'>
+			<nom>homme</nom>
+			<prenom></prenom>
+			<adresse1></adresse1>
+			<adresse2></adresse2>
+			<codePostal></codePostal>
+			<ville></ville>
+			<numTel1></numTel1>
+			<numTel2></numTel2>
+			<email></email>
+			<CAcumule></CAcumule>
+		</proprietaire>
+
+		<proprietaire numProprietaire='4'>
+			<nom>Bemmo</nom>
+			<prenom>Lile</prenom>
+			<adresse1></adresse1>
+			<adresse2></adresse2>
+			<codePostal>cp450</codePostal>
+			<ville>Aquoua</ville>
+			<numTel1>2</numTel1>
+			<numTel2></numTel2>
+			<email></email>
+			<CAcumule></CAcumule>
+		</proprietaire>
+	</proprietaires>

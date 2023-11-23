@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+	<users>
+		<user idUser='0'>
+			<login>Admin</login>
+			<mdp>1234</mdp>
+			<role>Administrateur</role>
+		</user>
+	</users>

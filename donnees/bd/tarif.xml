@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+	<tarifs>
+		<tarif codeTarif='0'>
+			<prixSemHS>1</prixSemHS>
+			<prixSemBS>3</prixSemBS>
+		</tarif>
+
+		<tarif codeTarif='3'>
+			<prixSemHS>56</prixSemHS>
+			<prixSemBS>55</prixSemBS>
+		</tarif>
+	</tarifs>

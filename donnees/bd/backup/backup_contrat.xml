@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+	<contrats>
+		<contrat numContrat='5'>
+			<etat>résiler</etat>
+			<dateCreation>2023-06-28</dateCreation>
+			<dateDebut>2023-06-23</dateDebut>
+			<dateFin>2023-06-22</dateFin>
+			<numLocation></numLocation>
+			<numLocataire>6</numLocataire>
+		</contrat>
+		<contrat numContrat='0'>
+			<etat>en cours</etat>
+			<dateCreation></dateCreation>
+			<dateDebut></dateDebut>
+			<dateFin></dateFin>
+			<numLocation></numLocation>
+			<numLocataire></numLocataire>
+		</contrat>
+		<contrat numContrat='45'>
+			<etat></etat>
+			<dateCreation>2023-06-21</dateCreation>
+			<dateDebut>2023-06-29</dateDebut>
+			<dateFin>2023-06-29</dateFin>
+			<numLocation>0</numLocation>
+			<numLocataire>6</numLocataire>
+		</contrat>
+
+		<contrat numContrat='98'>
+			<etat></etat>
+			<dateCreation></dateCreation>
+			<dateDebut></dateDebut>
+			<dateFin></dateFin>
+			<numLocation></numLocation>
+			<numLocataire></numLocataire>
+		</contrat>
+	</contrats>
